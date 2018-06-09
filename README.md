@@ -1,2 +1,1 @@
-# liveManagerWeb
-live manager website
+platform site gateway ui
